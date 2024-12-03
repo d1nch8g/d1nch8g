@@ -1,5 +1,7 @@
 <p align="center">
-##  Fominykh Danila
+  <h2>
+    Fominykh Danila
+  </h2>
 </p>
 
 ## Languages i know
