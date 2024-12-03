@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>
+  <h2 align="center">
     Fominykh Danila
   </h2>
 </p>
