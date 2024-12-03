@@ -1,5 +1,5 @@
-<div style='text-align: right;'>
-  ## Fominykh Danila
+<div style='text-align: center;'>
+  Fominykh Danila
 </div>
 
 ## Languages i know
