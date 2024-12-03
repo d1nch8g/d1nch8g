@@ -4,15 +4,15 @@
   </h2>
 </p>
 
-## Languages i know
+### Languages i know
 
 golang python js ts dart c# java
 
-## Databases and queues i worked with
+### Databases and queues i worked with
 
 postgresql leveldb redis mongo kafka rabbitmq nats 
 
-## Technologies/protocols/etc i use
+### Technologies/protocols/etc i use
 
 http rest grpc flutter vue echo swag golangci-lint 
 
