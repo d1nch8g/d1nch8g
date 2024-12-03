@@ -1,4 +1,20 @@
-## Hi there 👋
+<div style='text-align: right;'>
+  ## Fominykh Danila
+</div>
+
+## Languages i know
+
+golang python js ts dart c# java
+
+## Databases and queues i worked with
+
+postgresql leveldb redis mongo kafka rabbitmq nats 
+
+## Technologies/protocols/etc i use
+
+http rest grpc flutter vue echo swag golangci-lint 
+
+🎯 Currently maintaining [swap](https://github.com/d1nch8g/swap) - open source crypto exchange spot (written in go+vue)
 
 <!--
 **d1nch8g/d1nch8g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
