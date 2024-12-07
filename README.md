@@ -41,8 +41,15 @@
 
 ---
 
+### Currently working on
+
 - 🎯 [swap](https://github.com/d1nch8g/swap) - open source crypto exchange spot (written in go+vue)
 - 🎯 [tab](https://github.com/d1nch8g/tab) - decentralized cross-distro package manager
+
+### My open-source contributions
+
+- 💯 [PR, support for arch linux packages in gitea](https://github.com/go-gitea/gitea/pull/32692)
+- 💯 [Author, gRPC clicker - VSCode gRPC testing tool](https://marketplace.visualstudio.com/items?itemName=Dancheg97.grpc-clicker)
 
 <p align="center">
   <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FbZnePbG.gif&f=1&nofb=1&ipt=bb81abad9e66f5054dc12da7e36f662f8e4c4a42024c4328499366d198a97f9e&ipo=images)" height="150" alt="little cat"/>
