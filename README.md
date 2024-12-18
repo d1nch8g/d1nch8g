@@ -45,5 +45,5 @@
 - 🎯 [tab](https://github.com/d1nch8g/tab) - decentralized cross-distro package manager
 
 <p align="center">
-  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2FbZnePbG.gif&f=1&nofb=1&ipt=bb81abad9e66f5054dc12da7e36f662f8e4c4a42024c4328499366d198a97f9e&ipo=images)" height="150" alt="little cat"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHMOQLh1qhLV04%2Fgiphy.gif&f=1&nofb=1&ipt=15a6725516dc264bf45c27cc27c222a0f0b19d3205c61378ec60f9f728222f07&ipo=images" height="150"/>
 </p>
