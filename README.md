@@ -41,6 +41,13 @@
 
 ---
 
+### My open-source contributions
+
+- [Author of grpc-clicker VSCode extension](https://marketplace.visualstudio.com/items?itemName=Dancheg97.grpc-clicker)
+- [Gitea PR to support arch linux packages](https://github.com/go-gitea/gitea/pull/32692)
+
+### Currently working on
+
 - 🎯 [swap](https://github.com/d1nch8g/swap) - open source crypto exchange spot (written in go+vue)
 - 🎯 [tab](https://github.com/d1nch8g/tab) - decentralized cross-distro package manager
 
