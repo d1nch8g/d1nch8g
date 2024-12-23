@@ -1,10 +1,3 @@
-<p align="center">
-  <h3 align="center">
-    Fominykh Danila
-  </h3>
-</p>
-
----
 
 ### Languages i know
 
