@@ -1,7 +1,7 @@
 <p align="center">
-  <h2 align="center">
+  <h3 align="center">
     Fominykh Danila
-  </h2>
+  </h3>
 </p>
 
 ### Languages i know
