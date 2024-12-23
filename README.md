@@ -4,6 +4,8 @@
   </h3>
 </p>
 
+---
+
 ### Languages i know
 
 <p float="left">
