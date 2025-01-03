@@ -47,7 +47,6 @@
 ### Currently working on
 
 - 🎯 [swap](https://github.com/d1nch8g/swap) - open source crypto exchange spot (written in go+vue)
-- 🎯 [tab](https://github.com/d1nch8g/tab) - decentralized cross-distro package manager
 
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FHMOQLh1qhLV04%2Fgiphy.gif&f=1&nofb=1&ipt=15a6725516dc264bf45c27cc27c222a0f0b19d3205c61378ec60f9f728222f07&ipo=images" height="150"/>
