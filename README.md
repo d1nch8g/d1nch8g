@@ -42,6 +42,7 @@
 - [Author of grpc-clicker VSCode extension](https://marketplace.visualstudio.com/items?itemName=Dancheg97.grpc-clicker)
 - [Gitea PR to support arch linux packages](https://github.com/go-gitea/gitea/pull/32692)
 - [XORM PR to extend a website documentation a bit](https://gitea.com/xorm/website2/pulls/8)
+- [PR to OIDC to add support for env setting to web clients](https://github.com/zitadel/oidc/pull/693#pullrequestreview-2528704425)
 
 ### Currently working on
 
