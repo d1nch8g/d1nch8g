@@ -1,7 +1,8 @@
 
-### Languages i know
+### Languages i've worked with
 
 <p float="left">
+  <!-- go python bash js ts dart c# java -->
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_go_gopher_icon_130571.png&f=1&nofb=1&ipt=fc331bfebff659971bd9110879179c96d180ccff8bf4591792bf9ec479c8dcce&ipo=images" width="68" height="68" />
   <img src="https://imgs.search.brave.com/yExGzP_rRbFvw5BBq8_QjOOL0sAngN68gLelCeFzM_4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL2ZyZWUv/dGh1bWIvZnJlZS1w/eXRob24tM2QtaWNv/bi1kb3dubG9hZC1p/bi1wbmctYmxlbmQt/ZmJ4LWdsdGYtZmls/ZS1mb3JtYXRzLS1o/dG1sLWxvZ28tYy1z/b2Z0d2FyZS1wYWNr/LWxvZ29zLWljb25z/LTUzMjYzODUucG5n/P2Y9d2VicA" width="68" height="68" /> 
   <img src="https://imgs.search.brave.com/_ehIW3bX0XUAXk_WmofPWX8GgvdrEGABtFyogtPpY3Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5na2V5LmNvbS9w/bmcvZnVsbC8xNDAt/MTQwOTk4NF9weXRo/b24tbG9nby1iYXNo/LXNoZWxsLWxvZ28t/c2hlbGwtc2NyaXB0/LWxvZ28ucG5n" width="68" height="68" />
@@ -15,6 +16,7 @@
 ### Databases and queues i worked with
 
 <p float="left">
+  <!-- pg redis kafka leveldb mongo rabbitmq nats -->
   <img src="https://imgs.search.brave.com/cRYMDz-JxHAkAACLKH8kktAvcA23WhZnFBlLKEp51Qk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG9zdGdyZXNxbC5v/cmcvbWVkaWEvaW1n/L2Fib3V0L3ByZXNz/L2VsZXBoYW50LnBu/Zw" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3254282%2Fredis-icon-md.png&f=1&nofb=1&ipt=4226061b3100bb13cb582c49d65c73f197b76c38640e86aecd89f03337e025e8&ipo=images" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3207476%2Fapache-kafka-icon-md.png&f=1&nofb=1&ipt=df75bc619e68880e4ca047dab12a2ccd531667558137b9cea152575db6bc65de&ipo=images" width="68" height="68" />
@@ -27,12 +29,14 @@
 ### Technologies/protocols/etc i use
 
 <p float="left">
+  <!-- linux docker http grpc flutter vue git gitlab -->
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Flinux%2Flinux_PNG21.png&f=1&nofb=1&ipt=66ef5b23a706b813c18f5b0755b11dd88f90b9dcb22737c348cce960c8463dc3&ipo=images" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F97_Docker_logo_logos-1024.png&f=1&nofb=1&ipt=5fdd584d24d98698c015e029b10ce1ef52572481cb026adecf0764db26db38bd&ipo=images" width="68" height="68" /> 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1674%2F1674969.png&f=1&nofb=1&ipt=bd64bf026bf5b169ecff12fe139e62b77671911ec77254d422666c5b7240e1d9&ipo=images" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgrpc.io%2Fimg%2Flogos%2Fgrpc-icon-color.png&f=1&nofb=1&ipt=bd0edc1a995a0d5aed9a9196ce8391421286ffa65318249539758ca1824d4a0c&ipo=images" width="68" height="68" />
   <img src="https://imgs.search.brave.com/J6hn9cbOk5bKYiY0Tr2oCY89chRhK1y-N7o48-KTpLI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWZsdXR0ZXItbG9n/by1pY29uLWRvd25s/b2FkLWluLXN2Zy1w/bmctZ2lmLWZpbGUt/Zm9ybWF0cy0tdGVj/aG5vbG9neS1zb2Np/YWwtbWVkaWEtdm9s/LTMtcGFjay1sb2dv/cy1pY29ucy0yOTQ0/ODc2LnBuZz9mPXdl/YnAmdz0yNTY" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3254520%2Fvue-icon-md.png&f=1&nofb=1&ipt=c0f7e5087e217081ec21ab846f20b41e9d793870bbb7d356417b777a38a319a5&ipo=images" width="68" height="68" />
+  <img src="https://imgs.search.brave.com/cIQwNbX-VS5Sliv2y6WyUT5PLHxl45dQzlRDJ1sC-sY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWdpdC1sb2dvLWlj/b24tZG93bmxvYWQt/aW4tc3ZnLXBuZy1n/aWYtZmlsZS1mb3Jt/YXRzLS1icmFuZC1k/ZXZlbG9wbWVudC10/b29scy1wYWNrLWxv/Z29zLWljb25zLTIy/NTk5Ni5wbmc_Zj13/ZWJwJnc9MjU2" width="68" height="68" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F5847f997cef1014c0b5e48c1.png&f=1&nofb=1&ipt=cb36e4af4cd494327611c1dcbef9ad8299e83417baf3fd996811a5cd208b3575&ipo=images" width="68" height="68" />
 </p>
 
