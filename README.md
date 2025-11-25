@@ -43,7 +43,7 @@
 
 ### My open-source contributions
 
-- [Found a root-cause fix for the Cline repo, resolving 50+ sub-issues](https://github.com/cline/cline/pull/6598) - [Issue](https://github.com/cline/cline/issues/4356)
+- [Found a root-cause fix for the Cline repo, resolving 50+ sub-issues](https://github.com/cline/cline/pull/6598)
 - [Author of grpc-clicker VSCode extension](https://marketplace.visualstudio.com/items?itemName=Dancheg97.grpc-clicker)
 - [Gitea PR to support arch linux packages](https://github.com/go-gitea/gitea/pull/32692)
 - [XORM PR to extend a website documentation a bit](https://gitea.com/xorm/website2/pulls/8)
