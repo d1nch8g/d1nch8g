@@ -46,7 +46,7 @@
 - [Found a workaround fix for the Cline repo issue, resolving 50+ sub-issues](https://github.com/cline/cline/pull/6598)
 - [Author of grpc-clicker VSCode extension](https://marketplace.visualstudio.com/items?itemName=Dancheg97.grpc-clicker)
 - [Gitea PR to support arch linux packages (co-authored)](https://github.com/go-gitea/gitea/pull/32692)
-- [Found and fixed critical gitea vulnerability, allowing one user to occupy an unlimited amount of disk space (i bet hardest was to find it)](https://github.com/go-gitea/gitea/pull/28007)
+- [Found and fixed critical gitea vulnerability, allowing one user to occupy an unlimited amount of disk space (i bet hardest was to find it, old gh account - check commit email)](https://github.com/go-gitea/gitea/pull/28007)
 - [XORM PR to extend a website documentation a bit](https://gitea.com/xorm/website2/pulls/8)
 - [PR to OIDC to add support for env setting to web clients](https://github.com/zitadel/oidc/pull/693#pullrequestreview-2528704425)
 
